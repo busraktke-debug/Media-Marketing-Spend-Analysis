@@ -1,7 +1,7 @@
 # 📊 Digital Marketing Audit & Performance Insights
 
 ## 🎯 What is this project about?
-Coming from a **Digital Finance Operations** background at **PhD Media (OMG Group)**, I’ve seen firsthand how messy marketing data can get. This project is my way of showing how we can take raw, unorganized campaign data and turn it into clear, strategic decisions using SQL. 
+Coming from a **Digital Finance Operations** background at one of the biggest media company, I’ve seen firsthand how messy marketing data can get. This project is my way of showing how we can take raw, unorganized campaign data and turn it into clear, strategic decisions using SQL. 
 
 I didn't just write code; I built a workflow to audit spend efficiency and find out where the money is actually being made.
 
