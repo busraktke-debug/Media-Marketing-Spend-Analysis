@@ -21,6 +21,8 @@ After running the analysis, a few things stood out that would immediately change
 ## 📂 What's inside?
 * `/SQL_Scripts`: My step-by-step logic for cleaning and analyzing the data.
 * `Marketing.csv`: The raw campaign dataset.
+  
+* 📊 Interactive Dashboard: View My Full Analysis on Tableau Public https://public.tableau.com/views/Media_Marketing_Analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 **Let's connect!**
